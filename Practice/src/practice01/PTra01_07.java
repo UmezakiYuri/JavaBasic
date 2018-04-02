@@ -42,13 +42,5 @@ public class PTra01_07 {
 		System.out.println(f);
 		System.out.println(d);
 
-
-
-
-
-
-
-
-
 	}
 }
